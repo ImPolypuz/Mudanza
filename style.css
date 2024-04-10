@@ -1,16 +1,20 @@
 body
-{background-color: rgb(238,174,202);
+
+{background-color: rgb(255, 207, 228);
 background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+padding-left: 48px;
+padding-right: 48px;
 }
 
 h1{
     font-family: "Bungee spice";
 }
-h2{
-background-color: aquamarine;
+
+
+.bg-color{
+    background-color: rgb(196, 255, 236);
 }
 
 p{
-    background-color: aquamarine;
-    font-size: 20px;
+    background-color: rgb(196, 255, 236)
 }
